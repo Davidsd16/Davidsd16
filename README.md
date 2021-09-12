@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Davidsd16/Davidsd16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                 ⚡⚡ -FULLSTACK DEVELOPER ⚡⚡
+Desarrollador web Full Stack, con conocimientos en base de datos MSQL, PHP, Javascript, HTML, CSS y frameworks como Laravel, Vue.js, Bootstrap y Tailwind.
+Llevando a cabo, las metodologías ágiles: Kanban y Scrum y, las buenas prácticas en el desarrollo de software: SOLID, TDD, OOP y patrones de diseño.
+                   📫 -Contacto 📫
+- davidsanchezdiaz72@gamil.com
+- [Linkedin](https://linkedin.com/in/david-sánchez-díaz)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
